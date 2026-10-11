@@ -1,0 +1,20 @@
+{
+ "benchmarks": 203,
+ "benchmarks_with_pair_ge80": 182,
+ "pairs_ge80": 9884,
+ "pairs_ge80_recent": 907,
+ "benchmarks_with_recent_pair": 64,
+ "distinct_names": 697,
+ "pair_acc_mean_all": 0.488,
+ "pair_acc_mean_recent": 0.58,
+ "recent_bench_level_quantiles": [
+  0.236,
+  0.348,
+  0.613,
+  0.727,
+  0.829
+ ],
+ "recent_harness_frac": 0.736,
+ "recent_acc_harness": 0.569,
+ "recent_acc_noharness": 0.611
+}

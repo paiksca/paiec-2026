@@ -1,0 +1,10 @@
+.venv/
+data/
+third_party/
+.env
+.secrets/
+__pycache__/
+*.pyc
+results/*.log
+results/platform/
+results/LOCAL_DONE
