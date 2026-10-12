@@ -60,7 +60,7 @@ The simulator follows the protocol documented in [doctawho42/PAIEC](https://gith
 
 ## Use of AI assistants
 
-Claude (Anthropic) wrote most of this code under the author's direction. The author reviewed all of it and takes full responsibility for the work.
+Claude (Anthropic) generated the majority of this code under the author's direction. All AI-generated outputs were reviewed and refined by the author, who assumes full responsibility for the final work.
 
 ## License
 
