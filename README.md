@@ -60,7 +60,7 @@ The simulator follows the protocol documented in [doctawho42/PAIEC](https://gith
 
 ## Use of AI assistants
 
-Claude (Anthropic), working as a coding agent, wrote most of this code and ran the experiments under the author's direction. The author reviewed the method, the results and the text. The competition permits LLM coding assistants and asks entrants to disclose them.
+Claude (Anthropic) wrote most of this code under the author's direction.
 
 ## License
 
